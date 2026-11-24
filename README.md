@@ -47,7 +47,7 @@ Personal writeups for machines and rooms I completed while building toward **PJP
 | Machine | Difficulty | Category | Summary |
 |---------|------------|----------|---------|
 | [Dev](dev.md) | Intermediate | Linux / Web | Two paths: Bolt CMS Twig SSTI → shell → kernel CVE privesc, and the intended NFS → cracked SSH key → `sudo` GTFOBins root |
-| [Academy](academy.md) | Easy–Intermediate | Linux / Web | Anonymous FTP leak → portal file-upload RCE for a `www-data` shell → writable root cron job privesc |
+| [Academy](academy.md) | Easy–Intermediate | Linux / Web | Anonymous FTP leak → portal file-upload RCE → `config.php` creds → SSH as grimmie (password reuse) → root via writable `backup.sh` cron |
 
 ---
 
