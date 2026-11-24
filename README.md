@@ -38,6 +38,7 @@ Personal writeups for machines and rooms I completed while building toward **PJP
 | Machine | Difficulty | Category | Summary |
 |---------|------------|----------|---------|
 | [Bashed](bashed.md) | Easy | Web / Linux | Web content discovery, command execution foothold, misconfiguration-based privesc |
+| [Blue](blue.md) | Easy | Windows / SMB | MS17-010 (EternalBlue) SMBv1 RCE for a direct SYSTEM shell, no privesc stage |
 
 ---
 
