@@ -42,6 +42,14 @@ Personal writeups for machines and rooms I completed while building toward **PJP
 
 ---
 
+## TCM Security — PEH Capstone
+
+| Machine | Difficulty | Category | Summary |
+|---------|------------|----------|---------|
+| [Dev](dev.md) | Intermediate | Linux / Web | Two paths: Bolt CMS Twig SSTI → shell → kernel CVE privesc, and the intended NFS → cracked SSH key → `sudo` GTFOBins root |
+
+---
+
 ## Legal Notice
 
 These writeups document **authorized lab environments** I completed for training. Do not use the techniques described here against systems you do not own or lack explicit permission to test.
