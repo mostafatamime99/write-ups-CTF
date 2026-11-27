@@ -30,6 +30,7 @@ Personal writeups for machines and rooms I completed while building toward **PJP
 | [Mr. Robot](mr-robot.md) | Intermediate | Web / WordPress | WordPress enumeration, web exploitation for initial access, Linux privesc to root |
 | [Basic Pentesting 1](basic-pentesting-1.md) | Easy | Web / Linux | Directory and service enumeration, web foothold, credential reuse and local privesc |
 | [Basic Pentesting 2](basic-pentesting-2.md) | Easy–Medium | Web / Linux | Multi-service recon, web app abuse, pivoting from low-priv shell to root |
+| [Kioptrix Level 1](kioptrix-level-1.md) | Easy | Linux / Samba / Apache | Two paths: Samba `trans2open` direct root, and Apache mod_ssl CVE-2002-0082 (OpenFuck) → ptrace-kmod root |
 
 ---
 
